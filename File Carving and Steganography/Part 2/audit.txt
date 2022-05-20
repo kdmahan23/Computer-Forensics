@@ -1,0 +1,46 @@
+
+Scalpel version 1.60 audit file
+Started at Mon Dec 21 00:41:09 2020
+Command line:
+scalpel part1and2.dd 
+
+Output directory: /home/aayden/Desktop/scalpel-output
+Configuration file: /etc/scalpel/scalpel.conf
+
+Opening target "H="
+
+The following files were carved:
+File		  Start			Chop		Length		Extracted From
+00000003.jpg      4559681		NO          5104471		part1and2.dd
+00000002.jpg      1720358		NO          5150713		part1and2.dd
+00000001.gif      5550080		NO            15823		part1and2.dd
+00000000.gif      4755456		NO            49326		part1and2.dd
+00000011.pdf      1716224		NO          3034332		part1and2.dd
+00000012.pdf      4558848		NO           191708		part1and2.dd
+00000013.pdf      1716224		NO          2839852		part1and2.dd
+00000010.mpg       685227		NO         15304270		part1and2.dd
+00000006.jpg     12800000		NO          5184663		part1and2.dd
+00000005.jpg     12734464		NO          5209165		part1and2.dd
+00000004.jpg     12414976		NO          5075026		part1and2.dd
+00000016.zip     13045760		NO           108303		part1and2.dd
+00000017.zip     13046705		NO           107358		part1and2.dd
+00000018.zip     13047505		NO           106558		part1and2.dd
+00000019.zip     13048116		NO           105947		part1and2.dd
+00000020.zip     13049329		NO           104734		part1and2.dd
+00000021.zip     13049954		NO           104109		part1and2.dd
+00000022.zip     13050578		NO           103485		part1and2.dd
+00000023.zip     13052181		NO           101882		part1and2.dd
+00000024.zip     13462861		NO            47752		part1and2.dd
+00000025.zip     13463920		NO            46693		part1and2.dd
+00000026.zip     13464428		NO            46185		part1and2.dd
+00000027.zip     13464773		NO            45840		part1and2.dd
+00000028.zip     13465452		NO            45161		part1and2.dd
+00000029.zip     13468594		NO            42019		part1and2.dd
+00000014.wav     22704128		YES          200000		part1and2.dd
+00000015.wav     33435648		YES          200000		part1and2.dd
+00000009.mpg     16410436		NO         45786095		part1and2.dd
+00000008.tif      1720388		YES       200000000		part1and2.dd
+00000007.tif     21786624		YES       200000000		part1and2.dd
+
+
+Completed at Mon Dec 21 00:41:19 2020
